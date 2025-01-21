@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ассайнмент</string>
+    // Boarding
+    <string name="onBoardingText">Добро пожаловать в проект Азамата</string>
+    <string name="Start">Начать</string>
+    //Customisation
+    <string name="darkModeSwitch">Переключатель ночного режима</string>
+</resources>

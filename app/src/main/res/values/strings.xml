@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test Creator</string>
+    // Boarding
+    <string name="onBoardingText">Welcome to Azamat\'s app</string>
+    <string name="Start">Start</string>
+    // Main
+    <string name="darkModeSwitch">Dark mode switch</string>
+
+
+</resources>
